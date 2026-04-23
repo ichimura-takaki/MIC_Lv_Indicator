@@ -5,6 +5,7 @@
 
 ## exe化するには
 ```
+cd "保存したいpath"
 pyinstaller --noconsole --onefile "path"
 #上記を実行すると/dict に生成されます
 ```
