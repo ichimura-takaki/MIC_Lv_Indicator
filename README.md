@@ -5,6 +5,6 @@
 
 ## exe化するには
 ```
-pyinstaller --noconsole --onefile mic_meter.py
+pyinstaller --noconsole --onefile "path"
 #上記を実行すると/dict に生成されます
 ```
